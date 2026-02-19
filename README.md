@@ -17,6 +17,8 @@ https://github.com/github/copilot-sdk/blob/main/docs/mcp/overview.md
 
 https://github.com/github/copilot-sdk/blob/main/docs/hooks/overview.md
 
+https://github.com/github/copilot-sdk/blob/main/docs/hooks/session-lifecycle.md
+
 https://github.com/github/copilot-sdk/blob/main/docs/guides/setup/local-cli.md
 
 ### Awesome copilot github sdk docs
